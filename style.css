@@ -1,0 +1,42 @@
+body{
+    background:cornflowerblue;
+}
+
+.container{
+    display: block;
+    width:1000px;
+    margin:auto;
+    box-sizing: border-box;
+    background:white;
+    padding: 70px;
+}
+
+.container h1{
+    text-align: center;
+    font-size: 35px;
+    color:chocolate;
+    text-decoration:underline;
+}
+
+
+.container input{
+    width:90%;
+    padding: 5px;
+    outline:red;
+
+  
+}
+input.submitBtn {
+    width: 150px;
+    padding: 12px;
+    background: chocolate;
+    outline: none;
+    border: 1px solid black;
+}
+
+
+span{
+    color:red;
+    font-size: 12px;
+
+}
